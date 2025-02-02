@@ -1,6 +1,3 @@
-## 📌 Project Dashboard  
-📊 **[View the Tableau Dashboard]([https://public.tableau.com/app/profile/devesh.jadhav6105/viz/Cyclistic-GoogleBusinessIntelligenceCaseStudyProject/Story1](https://public.tableau.com/views/Cyclistic-GoogleBusinessIntelligenceCaseStudyProject/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
-
 📌 Business Problem 
 
 Cyclistic's Customer Growth Team is creating a business plan for next year. The team wants to understand how their customers are using their bikes; their top priority is identifying customer demand at different station locations and how wheather impacts customer trip.
