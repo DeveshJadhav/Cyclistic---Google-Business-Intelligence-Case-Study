@@ -1,3 +1,7 @@
+## 📌 Project Dashboard  
+📊 **[View the Tableau Dashboard](https://public.tableau.com/app/profile/devesh.jadhav6105/viz/Cyclistic-GoogleBusinessIntelligenceCaseStudyProject/Story1)**
+
+
 📌 Business Problem 
 
 Cyclistic's Customer Growth Team is creating a business plan for next year. The team wants to understand how their customers are using their bikes; their top priority is identifying customer demand at different station locations and how wheather impacts customer trip.
@@ -24,10 +28,10 @@ In order to continuously improve and effectively market products, the dashboard 
 
 🔹 Data Source: Google Cloud Public Dataset
 🔹 ETL Process:
-
 Extract: Data was accessed from Google Cloud Public Datasets.
 Transform: Using BigQuery Studio, necessary data was extracted and joined. Minimal cleaning was required as the dataset was structured.
 Load: The cleaned data was loaded into Tableau for interactive dashboard development.
+
 🛠️ Tools Used:
 Google BigQuery Studio (SQL Queries)
 Microsoft Excel (Exploratory Analysis)
